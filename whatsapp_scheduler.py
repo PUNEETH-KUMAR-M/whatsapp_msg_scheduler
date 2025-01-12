@@ -13,7 +13,7 @@ def send_message(phone_number, message, hour, minute):
 
 # Example usage
 if __name__ == "__main__":
-    phone_number = "+917338095088"  # Replace with the recipient's phone number
+    phone_number = ""  # Replace with the recipient's phone number
     message = "Hello! i am testing whatsapp scheduler using python"
 
     now = datetime.now()
